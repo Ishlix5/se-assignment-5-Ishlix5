@@ -1,0 +1,97 @@
+Developer Environment Setup Documentation
+1. Installation of Visual Studio Code
+Steps to Download and Install Visual Studio Code on Windows 11
+Download Visual Studio Code:
+
+Visit Visual Studio Code Download.
+Click "Windows" to download the installer.
+Run the Installer:
+
+Open the downloaded file (VSCodeSetup.exe).
+Follow the installation prompts: accept the license, choose a destination folder, and select additional tasks (e.g., add VS Code to PATH, create a desktop icon).
+Complete Installation:
+
+Click "Install" and then "Finish" to launch Visual Studio Code.
+Prerequisites
+Ensure your system meets the minimum system requirements.
+2. First-time Setup
+Initial Configurations and Settings
+Install Key Extensions:
+
+Open the Extensions view by clicking the Extensions icon in the Activity Bar.
+Search for and install extensions like Python, GitLens, Prettier, and ESLint.
+Settings:
+
+Open settings by clicking the gear icon in the bottom left corner or pressing Ctrl + ,.
+Adjust settings like Editor: Tab Size, Editor: Format On Save, and Auto Save.
+Theme and Appearance:
+
+Change the theme by searching "Color Theme" in the Command Palette (Ctrl + Shift + P).
+Adjust font size and appearance settings in the "Settings" menu.
+3. User Interface Overview
+Main Components of VS Code UI
+Activity Bar:
+
+Located on the far left; contains icons to switch between views like Explorer, Search, Source Control, Run and Debug, and Extensions.
+Side Bar:
+
+Displays views and panels based on the selected Activity Bar icon, such as File Explorer, Search, and Extensions.
+Editor Group:
+
+The central area where files are opened and edited; supports multiple tabs and split view.
+Status Bar:
+
+Located at the bottom; provides information about the workspace, such as line/column numbers, encoding, and Git branch.
+4. Command Palette
+What is the Command Palette and How to Access It?
+Command Palette:
+A quick way to access commands and settings; access by pressing Ctrl + Shift + P or F1.
+Examples of Common Tasks:
+Opening Settings:
+Type Preferences: Open Settings in the Command Palette.
+Changing Theme:
+Type Color Theme to change the theme.
+Running Commands:
+Type commands like Format Document, Toggle Terminal, or Git: Clone.
+5. Extensions in VS Code
+Role of Extensions
+Enhancing Functionality:
+Extensions add features like language support, themes, debuggers, and tools.
+Finding, Installing, and Managing Extensions:
+Finding Extensions:
+
+Open the Extensions view and search using keywords.
+Installing Extensions:
+
+Click "Install" next to the desired extension.
+Managing Extensions:
+
+View installed extensions and disable or uninstall them from the Extensions view.
+Examples of Essential Extensions for Web Development:
+HTML, CSS, and JavaScript Support:
+HTML Snippets, CSS IntelliSense, JavaScript (ES6) code snippets.
+6. Integrated Terminal
+Opening and Using the Integrated Terminal
+Open Terminal:
+
+Click Terminal > New Terminal or press `Ctrl + ``.
+Using the Terminal:
+
+Run command-line tasks without leaving VS Code.
+Advantages of Using the Integrated Terminal:
+Convenience:
+Seamlessly run and manage tasks within the same window.
+Efficiency:
+Quickly switch between coding and terminal tasks.
+7. File and Folder Management
+Creating, Opening, and Managing Files and Folders
+Create Files and Folders:
+
+Right-click in the Explorer view and select "New File" or "New Folder."
+Use Ctrl + N to create a new file.
+Open Files:
+
+Double-click files in the Explorer view or use Ctrl + O to open a file dialog.
+Manage Files and Folders:
+
+Drag and drop files and folders within the Explorer view.
